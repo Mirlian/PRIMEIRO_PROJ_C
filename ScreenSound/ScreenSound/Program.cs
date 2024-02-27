@@ -1,4 +1,4 @@
-﻿// Screen Sound Teste
+﻿// Screen Sound
 using System.Net.Http.Headers;
 
 string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
