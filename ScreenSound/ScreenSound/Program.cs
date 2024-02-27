@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿// Screen Sound
-=======
-﻿// Screen Sound Teste Git
->>>>>>> parent of fdad777 (PRIMEIRO_PROJ_C)
+﻿// Screen Sound Teste
 using System.Net.Http.Headers;
 
 string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
